@@ -1,57 +1,11 @@
-Here's the updated `README.md` without links and with skills in bold:
+<h1 align="center">Hi 👋, I'm Ankesh Babal</h1>
+<h3 align="center">A passionate Data Analyst</h3>
 
-```markdown
-# 👋 Hello, I'm Ankesh Babal!
+- 🔭 I’m a passionate and dedicated Master of Analytics student with a strong desire to become a data analyst. I am skilled in Python, MySQL, advanced Excel, Power BI, AWS, Hadoop, Spark, Azure, R, Big Data, and AI. My goal is to leverage these skills to uncover insights, drive data-driven decisions, and contribute to the advancement of the field.**
 
-![Analytics Banner](https://www.yourimageurl.com/banner.png)
+- 🌱 I’m currently learning **AWZ, Spark,Hadoop,R,Python, Power BI**
 
-## About Me
-I am a passionate and dedicated Master of Analytics student with a strong desire to become a data analyst. I am skilled in Python, MySQL, advanced Excel, Power BI, AWS, Hadoop, Spark, Azure, R, Big Data, and AI. My goal is to leverage these skills to uncover insights, drive data-driven decisions, and contribute to the advancement of the field.
-
-## Skills
-### Programming Languages
-**Python**, **R**
-
-### Databases
-**MySQL**
-
-### Data Analytics
-**Excel**, **Power BI**
-
-### Big Data Technologies
-**AWS**, **Hadoop**, **Spark**, **Azure**
-
-### Artificial Intelligence
-**AI**
-
-## Projects
-### 1. Big Data in Healthcare
-- **Description:** An in-depth report and project on the utilization and potential of big data in healthcare.
-- **Technologies:** Hadoop, Spark, Python, SQL, Power BI
-
-### 2. Air Quality Modelling and Prediction
-- **Description:** Research project focused on machine learning techniques for air quality modelling and prediction.
-- **Technologies:** Python, R, Azure
-
-## Education
-- **Master of Analytics**
-
-## Connect with Me
-- LinkedIn
-- Twitter
-- Email
-
- **Let's Collaborate!**
-I am always open to new opportunities and collaborations. Feel free to reach out to me if you have a project in mind or just want to connect.
-
----
-
-<p align="center">
-    <img src="https://www.yourimageurl.com/footer.png" alt="Analytics Footer" width="600">
-</p>
-```
-
-This version keeps the focus on your skills by using bold text and removes all links. Be sure to replace placeholder text and URLs with your actual details.
+- 📫 How to reach me **ankeshlokeshbabal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
